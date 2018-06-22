@@ -1,0 +1,61 @@
+.answerchoice {
+	border: 1px solid black;
+  border-radius: 5%;
+	width: 40%;
+	color: black;
+  text-align: center;
+  margin: 10px auto;
+  font-size: 20px;
+  background-color: white;
+
+}
+
+#answerDiv {
+  text-align: center;
+
+}
+
+#questionDiv {
+  text-align: center;
+  font-weight: bold;
+}
+
+#playAgain {
+  visibility: visible;
+}
+
+body {
+  background-image: url("../img/leafbg.png");
+  font-family: 'Karla', sans-serif;
+}
+
+p {
+  margin: 10px;
+  font-weight: bold;
+  color: red;
+  font-size: 20px;
+}
+
+h3, h4 {
+  margin: 30px;
+  font-weight: bold;
+}
+
+.main {
+  margin: 5px auto;
+  height: 800px;
+  width: 70%;
+  text-align: center;
+}
+
+.btn {
+  position: relative;
+  bottom: -100px;
+  left: 250px;
+}
+
+img {
+  max-height: 200px;
+  width: auto;
+}
+
